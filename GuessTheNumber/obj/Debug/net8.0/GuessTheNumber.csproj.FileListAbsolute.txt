@@ -1,0 +1,5 @@
+C:\Users\nikit\source\repos\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.csproj.AssemblyReference.cache
+C:\Users\nikit\source\repos\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\source\repos\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.AssemblyInfoInputs.cache
+C:\Users\nikit\source\repos\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.AssemblyInfo.cs
+C:\Users\nikit\source\repos\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.csproj.CoreCompileInputs.cache
